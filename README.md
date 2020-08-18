@@ -3,6 +3,4 @@
 :four_leaf_clover: [Mayara Dotta](https://github.com/DottaMP "GitHub")  
 
 # Fresco
-Projeto e-commerce do restaurante *Fresco*, utilizando como base o conteúdo do curso em vídeo.    
-[*Site Fresco*](https://www.cursoemvideo.com/cursowp/manual/ "Site Fresco")
-
+Projeto e-commerce do restaurante [*Fresco*](https://www.cursoemvideo.com/cursowp/manual/ "Site Fresco"), utilizando como base o conteúdo do curso em vídeo.
