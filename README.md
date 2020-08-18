@@ -1,4 +1,4 @@
-### Projeto desenvolvido por: :pizza: :spaghetti: :fork_and_knife:
+### Projeto desenvolvido em conjunto :pizza: :spaghetti: :fork_and_knife:
 :octocat: [Lais Basso](https://github.com/laisbasso "GitHub")  
 :four_leaf_clover: [Mayara Dotta](https://github.com/DottaMP "GitHub")  
 
